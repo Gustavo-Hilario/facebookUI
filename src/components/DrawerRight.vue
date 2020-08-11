@@ -63,6 +63,7 @@ export default {
   },
   data(){
     return {
+      //google contacts
       friends: [
         { name: 'Shelton Izaiah', avatar: require('../assets/avatars/1.png'), online: true },
         { name: 'Patrick Solomon', avatar: require('../assets/avatars/2.png'), online: true },
